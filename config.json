@@ -1,0 +1,6 @@
+{
+  "API_KEY": "secretKeyHere",
+  "API_VERSION": "/api/v1",
+  "IMAGE_FOLDER": "i",
+  "APP_PORT": "3000"
+}
